@@ -12,23 +12,19 @@
 Клонируем удалённый репозиторий на компьютер.
 
 Комманда: git clone.
-
 ![Screenshot_3](https://user-images.githubusercontent.com/64597960/202860103-9a1601d5-aeaf-4830-9930-d816e6c6c5ba.png)
 
 Проверяем, что при клонировании репозитория, все файлы из удаленного репозитория перешли в локальный.
 
 Команда: git pull.
-
 ![Screenshot_5](https://user-images.githubusercontent.com/64597960/202860124-7836e24c-145c-4802-b33c-7ceb0a6f355c.png)
 
 Добавляем файл через интерфейс GitHub.
 
 Нажимаем на кнопку Add file, затем на Create new file.
-
 ![Screenshot_1](https://user-images.githubusercontent.com/64597960/202860172-e01a826e-3f4e-4943-bfe8-3d08652ed340.jpg)
 
 С помощью появившегося интерфейса вводим название файла и его содержимое.
-
 ![Screenshot_2](https://user-images.githubusercontent.com/64597960/202860199-f90ac502-dcc7-4edc-9764-694b1fe1209c.jpg)
 
 Прописываем комментарий к коммиту и соответственно делаем сам коммит
@@ -40,7 +36,6 @@
 Поддтягиваем изменения с удаленного репозитория в локальный.
 
 Комманда: git pull.
-
 ![Screenshot_7](https://user-images.githubusercontent.com/64597960/202860311-56aae202-75ac-4515-900c-2c22506aa20e.png)
 
 Посмотрим коммиты веток
