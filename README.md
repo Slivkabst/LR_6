@@ -5,7 +5,7 @@
 ![200065624-f956e2eb-c260-442a-8209-e93db56d0b59](https://user-images.githubusercontent.com/64597960/202860025-59a426ec-4c9b-435f-83fa-0a1379a5d3b8.jpg)
 Затем настраиваем клиент git, вводим имя пользователя и email.
 
-Комманды: git config --global user.name ; git config --global user.emai
+Комманды: git config --global user.name ; git config --global user.email
 
 ![Screenshot_2](https://user-images.githubusercontent.com/64597960/202860077-11e8e2ea-9f5a-4561-bb26-9c2684b54eaa.png)
 
